@@ -1,4 +1,4 @@
-package consts
+package global_consts
 
 const (
 	FirstName_Cannot_Be_Empty string = "FirstName Cannot Be Empty!"
